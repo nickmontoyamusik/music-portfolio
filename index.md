@@ -3,7 +3,7 @@ layout: default
 headline: About
 description: Nick is a second-year master’s student in Musicology from Santaquin, Utah. His current research interests include Indonesian folk music, modern/contemporary dance accompaniment, participatory music, improvisation in rhythmic entrainment, and weird instruments, specifically Indonesian jaw harps.
 summary: Nick is a second-year master’s student in Musicology from Santaquin, Utah. His current research interests include Indonesian folk music, modern/contemporary dance accompaniment, participatory music, improvisation in rhythmic entrainment, and weird instruments, specifically Indonesian jaw harps.
-featured-img: andrew-stiefel-viola.jpg
+featured-img: assets/img/posts/Patrick Playing Drums.mov
 permalink: /
 ---
 
