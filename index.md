@@ -1,8 +1,8 @@
 ---
 layout: default
 headline: About
-description: Andrew Stiefel is a composer, performer, and writer whose work explores the intersections between written and recorded sound.
-summary: Andrew Stiefel is a composer living in Seattle, Washington. His music explores the intersections between written and recorded sound.
+description: Nick is a second-year master’s student in Musicology from Santaquin, Utah. His current research interests include Indonesian folk music, modern/contemporary dance accompaniment, participatory music, improvisation in rhythmic entrainment, and weird instruments, specifically Indonesian jaw harps.
+summary: Nick is a second-year master’s student in Musicology from Santaquin, Utah. His current research interests include Indonesian folk music, modern/contemporary dance accompaniment, participatory music, improvisation in rhythmic entrainment, and weird instruments, specifically Indonesian jaw harps.
 featured-img: andrew-stiefel-viola.jpg
 permalink: /
 ---
