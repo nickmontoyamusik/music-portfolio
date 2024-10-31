@@ -1,17 +1,17 @@
 #SITE CONFIGURATION
 
-title: Andrew Stiefel
-description: Composer
-repository: "andrewstiefel/music-portfolio"
+title: Nick Montoya
+description: Percussionist Drummer Musicologist
+repository: "nickmontoyamusik/music-portfolio"
 baseurl: 
-url: "http://andrewstiefel.com"
+url: "https://nickmontoyamusik.github.io/music-portfolio/"
 
 google_tag_manager: GTM-P7PZFVP
 
 # SEO PLUGIN
 
 social:
-  name: Andrew Stiefel
+  name: Nick Montoya
   links:
     - https://www.facebook.com/andrewstiefel
     - https://twitter.com/andrewstiefel
@@ -27,12 +27,11 @@ navigation: # Navigation links
   - {name: 'Recordings', link: '/recordings'}
   - {name: 'Contact', link: '/contact'}
   
-email: andrew@andrewstiefel.com
-twitter_username: andrewstiefel
-github_username: andrewstiefel
-instagram_username: andrewstiefel
-facebook_username: andrewstiefel
-linkedin_username: andrewstiefel
+email: nbm23b@fsu.edu
+github_username: nickmontoyamusik
+instagram_username: nick.montoya.musik
+facebook_username: Nick Montoya
+linkedin_username: Nick Montoya
 
 #BUILD SETTINGS
 
